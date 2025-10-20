@@ -1,6 +1,7 @@
 ---
 import Layout from '~/layouts/Layout.astro'
 import type { MarkdownLayoutProps } from 'astro'
+import AboutL from '~/components/AboutL.astro'
 
 type Props = MarkdownLayoutProps<{
   // Define frontmatter props here
@@ -22,4 +23,5 @@ const { frontmatter } = Astro.props
       <slot />
     </div>
   </div>
+  <AboutL />
 </Layout>
