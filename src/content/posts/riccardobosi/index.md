@@ -22,12 +22,15 @@ THE FINAL BATTLE ~ RICCARDO BOSI ~ 17PLUS 17PLUS.WEEBLY.COM
 <https://rumble.com/v6xna7y-the-final-battle-riccardo-bosi-17plus-17plus.weebly.com.html>
 
 RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
-https://odysee.com/@liabilitymate:5/ricard:00
-https://odysee.com/@liabilitymate:5/ricard:00
-https://odysee.com/@Liabilitymate:d/bosi2:b
-https://odysee.com/@Liabilitymate:d/bosi2:b
+<https://odysee.com/@liabilitymate:5/ricard:00>
 
-RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
+<https://odysee.com/@Liabilitymate:d/bosi2:b>
+
+(AustraliaOne Party - The Dark Empire is Falling {20 October 2025}{30:00}
+<https://rumble.com/v70l1ri-australiaone-party-the-dark-empire-is-falling-20-october-2025.html?>)
+
+The White Hats' Coordinated Takedown of Deep State Systems | Riccardo Bosi
+<https://rumble.com/v6xbgt8-the-white-hats-coordinated-takedown-of-deep-state-systems-riccardo-bosi.html?>
 
 AustraliaOne Party
 <https://rumble.com/c/AustraliaOneParty>
