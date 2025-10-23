@@ -9,6 +9,17 @@ tags: ['big-daddy', 'dumbs']
 Must watch QCT-20-2025 Q & A to my grand rising patriots (dumbs)
 <https://www.youtube.com/watch?v=NVh_lbcpWPQ&t=1s>
 
+Military’s says all humanity will know whats going on,
+weither they accept it or not
+<https://www.youtube.com/watch?v=hcFbfrbEVoQ&t=1s>
+
+Silver is a bank killer.
+<https://www.youtube.com/watch?v=aLakF2hrMu8>
+
+Humanity is waking up and taking back their countries the reptilian leadership is on the run
+
+<https://www.youtube.com/watch?v=6j0jd14PnKk&t=1s>
+
 Patriots Must watch my QCT-21-2025 Q & A to my grand rising patriots
 <https://www.youtube.com/watch?v=c_PigCGTlyA&t=1s>
 

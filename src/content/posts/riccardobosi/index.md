@@ -26,22 +26,28 @@ RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
 
 <https://odysee.com/@Liabilitymate:d/bosi2:b>
 
-(AustraliaOne Party - The Dark Empire is Falling {20 October 2025}{30:00}
+(AustraliaOne Party - The Dark Empire is Falling 20 October 2025 30:00
 <https://rumble.com/v70l1ri-australiaone-party-the-dark-empire-is-falling-20-october-2025.html?>)
 
+(10.20.25 THE DARK EMPIRE IS FALLING w/McKay, Jaco, & Bosi 30:00
+<https://rumble.com/v70ke7y-10.20.25-the-dark-empire-is-falling-wmckay-jaco-and-bosi.html?>)
+
+(PatriotStreetfighter
+<https://rumble.com/c/PatriotStreetfighter?>)
+
 The White Hats' Coordinated Takedown of Deep State Systems | Riccardo Bosi
-<https://rumble.com/v6xbgt8-the-white-hats-coordinated-takedown-of-deep-state-systems-riccardo-bosi.html?>
+(<https://rumble.com/v6xbgt8-the-white-hats-coordinated-takedown-of-deep-state-systems-riccardo-bosi.html?>)
 
-AustraliaOne Party
-<https://rumble.com/c/AustraliaOneParty>
+(AustraliaOne Party
+<https://rumble.com/c/AustraliaOneParty>)
 
-CCP spies Fraud election fake "Australian Government"
-<https://odysee.com/@liabilitymate:5/zee:87>
+(CCP spies Fraud election fake "Australian Government"
+<https://odysee.com/@liabilitymate:5/zee:87>)
 
 
 
-RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
-<https://odysee.com/@liabilitymate:5/ricard:00>
+(RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
+<https://odysee.com/@liabilitymate:5/ricard:00>)
 
 <https://odysee.com/@Liabilitymate:d/bosi2:b>
 
