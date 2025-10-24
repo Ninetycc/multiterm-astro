@@ -46,24 +46,29 @@ By James Casbolt/Michael Prince
 <https://inscribedonthebelievingmind.blog/wp-content/uploads/2022/04/james-casbolt-mi6-buried.alive_.pdf>
 
 James Casbolt - MI6 Buried Alive (Full Book)
-https://www.youtube.com/watch?v=CPbLXP2n4WI
+<https://www.youtube.com/watch?v=CPbLXP2n4WI>
 
 @cvmn734
-https://www.youtube.com/@cvmn734
+<https://www.youtube.com/@cvmn734>
 
 "They Were Going To Eat People" - NDE Vision Of Reptilian's Farm Harvest
-https://www.bitchute.com/video/XlFfaUMbqujy
+<https://www.bitchute.com/video/XlFfaUMbqujy>
 
 Wyrmspleen
-https://www.bitchute.com/channel/sPLw4CMfMUAO
+<https://www.bitchute.com/channel/sPLw4CMfMUAO>
 
 TIP Movie Night Presents: James Casbolt (Michael Prince) Former Black Ops MI6 Agent Testimony | 2012
 
 The Imagination Podcast
-https://www.youtube.com/watch?v=L-uTj1dsTGU
-https://www.youtube.com/watch?v=L-uTj1dsTGU
-https://www.youtube.com/watch?v=L-uTj1dsTGU
+<https://www.youtube.com/watch?v=L-uTj1dsTGU>
+
 TIP Movie Night Presents: James Casbolt (Michael Prince) Former Black Ops MI6 Agent Testimony | 2012
+
+WILLIAM COOPER CLASSIC: MAJESTIC 12 AND THE ALIEN PROBLEM!
+<https://old.bitchute.com/video/QgjeWsyFCosI/>
+
+Banned Youtube Videos
+<https://www.bitchute.com/channel/2m4a3NgD19fe/>
 
 The Imagination Podcast
 
