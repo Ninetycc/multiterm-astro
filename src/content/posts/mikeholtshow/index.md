@@ -77,9 +77,12 @@ SiriusB
 
 SiriusB: Taxes Converts a Person into a Tradeable Unit
 <https://operationdisclosureofficial.com/2025/09/21/siriusb-taxes-converts-a-person-into-a-tradeable-unit/>
+<https://x.com/SiriusBShaman/status/1969814425772187881>
+<https://x.com/SiriusBShaman/status/1969814141436113313>
 
 SiriusB: Cabal TaxTheftion
 <https://operationdisclosureofficial.com/2024/08/20/siriusb-cabal-taxtheftion/>
+<https://x.com/SiriusBShaman/status/1825834167323484445>
 
 You are not free. 
 
