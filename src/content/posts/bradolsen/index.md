@@ -64,9 +64,22 @@ Michael Jaco & Brad Olsen expose what’s REALLY hidden in Antarctica — from A
 📺 Watch more on YouTube ➡️ https://youtube.com/user/michaeljaco
 📺 Watch on Rumble ➡️ https://rumble.com/user/michaelj5326
 
-🌐 More from Michael Jaco: https://michaelkjaco.com (https://michaelkjaco.com/)
-🌐 More from Brad Olsen: https://bradolsen.com
+🌐 More from Michael Jaco: <https://michaelkjaco.com>
+🌐 More from Brad Olsen: <https://bradolsen.com>
 
 #AntarcticaRevealed #MichaelJaco #BradOlsen #HiddenHistory #AncientAliens #UFOFiles #DisclosureNow #AdmiralByrd #TruthMovement #StayInTheLoveVibrations
+
+남극 나치와 지하세계 문명에 대한 이야기들(Conspiracy Theories Regarding Antarctica)
+<https://www.youtube.com/watch?v=PZczLZAK5oo>
+
+Lost Civilizations of Antarctica
+July 19, 2023
+191
+3 min
+From giant pyramids hidden beneath the ice and ancient maps depicting an ice-free Antarctica to secret UFO bases, this is the enigmatic Antarctica.
+<https://dzen.ru/a/ZLeAP81mam-xSS1g>
+
+Unique footage from Antarctica, hidden for 65 years, reveals the mystery of an iceberg believed to be a passage to an unknown world.
+<https://dzen.ru/a/aNFGBI0_p1CB-4mZ>
 
 

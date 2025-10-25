@@ -54,29 +54,39 @@ The White Hats' Coordinated Takedown of Deep State Systems | Riccardo Bosi
 RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
 
 Riccardo Bosi with the Bnai Brith
-https://odysee.com/@OzFlor:7/291223:b
-https://odysee.com/@OzFlor:7/291223:b
+<https://odysee.com/@OzFlor:7/291223:b>
+
 40:59
 Riccardo Bosi with the Bnai Brith
 
 
 The Alarming Presence of Graphene Oxide in Dental Anesthetics and Other Injectables - 2nd upload attempt
-https://odysee.com/@OzFlor:7/150524d:7
-https://odysee.com/@OzFlor:7/150524d:7
+<https://odysee.com/@OzFlor:7/150524d:7>
+
 
 The Alarming Presence of Graphene Oxide in Dental Anesthetics and Other Injectables - 2nd upload attempt
 
 
 Pascal Najadi Talks with Gen. Riccardo Bosi (May 8, 2024)
-https://odysee.com/@NikosHadjopulos:3/Pascal-Najadi-Talks-with-Gen.-Riccardo-Bosi-(May-8,-2024):e
-https://odysee.com/@NikosHadjopulos:3/Pascal-Najadi-Talks-with-Gen.-Riccardo-Bosi-(May-8,-2024):e
-Pascal Najadi Talks with Gen. Riccardo Bosi (May 8, 2024)
-
+<https://odysee.com/@NikosHadjopulos:3/Pascal-Najadi-Talks-with-Gen.-Riccardo-Bosi-(May-8,-2024):e>
 
 THE FINAL BATTLE ~ RICCARDO BOSI ~ 17PLUS 17PLUS.WEEBLY.COM
-https://rumble.com/v6xna7y-the-final-battle-riccardo-bosi-17plus-17plus.weebly.com.html
-https://rumble.com/v6xna7y-the-final-battle-riccardo-bosi-17plus-17plus.weebly.com.html
-
-THE FINAL BATTLE ~ RICCARDO BOSI ~ 17PLUS 17PLUS.WEEBLY.COM
-THE FINAL BATTLE ~ RICCARDO BOSI ~ 17PLUS 17PLUS.WEEBLY.COM
+<https://rumble.com/v6xna7y-the-final-battle-riccardo-bosi-17plus-17plus.weebly.com.html>
 AMERICANDREAM09 with 17PL
+
+Enoch
+<https://old.bitchute.com/video/soC20jpbtGlN/>
+
+SEIZURE OF CABAL TECHNOLOGY
+<https://old.bitchute.com/video/CVMLTGxcCQFb/>
+
+INTEL BIG DADDY - Q & A (Video)
+Posted By: Mr.Ed [Send E-Mail]
+Date: Wednesday, 22-Oct-2025 22:36:17 <https://www.rumormillnews.com/cgi-bin/forum.cgi?read=260809>
+
+Rise of the Machines - The A.I. Takeover & the Battle of Timelines - ISMAEL PEREZ (Video)<https://www.youtube.com/@THEREALISMAELPEREZ>
+
+THE REAL ISMAEL PEREZ
+10/22/2025 <https://www.youtube.com/watch?v=pIVaQCIcUP0>
+ Alliance Update - ISMAEL PEREZ (Video)
+10/20/2025 <https://www.youtube.com/watch?v=54zudEPxBrE>

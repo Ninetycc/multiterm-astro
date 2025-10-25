@@ -242,3 +242,12 @@ https://www.youtube.com/watch?v=BP4R0rI1wk8
 Victory of the Light!
 
 https://2012portal.blogspot.com/2020/10/final-battle-update-part-2.html
+
+Mars Colonies since 1964, AI, American Pope & Israel Iran War - Gene Decode Update
+<https://rumble.com/v6vbsed-mars-colonies-since-1964-ai-american-pope-and-israel-iran-war-gene-decode-u.html>
+Dr. Michael Salla w/ Gene Decode: Mars Colonies since 1964, AI, American Pope & Israel Iran War (Video) <https://www.rumormillnews.com/cgi-bin/forum.cgi?read=257814>
+pAnNON Gene Decode: Mars Colonies since 1964 <https://www.bitchute.com/video/5PAdSC0OEyE1>
+pAnNON <https://www.bitchute.com/channel/D1sWU5web333>
+
+Reptilian brain 🧠
+<https://old.bitchute.com/video/AkZRnGGS9nbc/>
