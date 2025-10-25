@@ -4,7 +4,7 @@ description: "Mike Holt has been challenging the system for many years, especial
 published: 2025-10-25
 
 tags: ["mikeholtshow"]
-draft: true
+draft: false
 ---
 
 Taking advantage of the Bills of Exchange Act
@@ -29,18 +29,17 @@ Paying bills with Bills of Exchange Act
 Richard Vobes
 <https://www.youtube.com/watch?v=kUd3XTXLUkw>
 
-https://cirnow.com.au/how-to-create-a-bill-of-exchange/
+<https://cirnow.com.au/how-to-create-a-bill-of-exchange/>
 
 Paying bills with Bills of Exchange Act
 Paying bills with Bills of Exchange Act
 
 Questions for your Insurance Company
-https://cirnow.com.au/questions-for-your-insurance-company/
+<https://cirnow.com.au/questions-for-your-insurance-company/>
 
 Taking advantage of the Bills of Exchange Act
 Richard Vobes
-https://www.youtube.com/watch?v=xl63IqETCGI
-https://www.youtube.com/watch?v=xl63IqETCGI
+<https://www.youtube.com/watch?v=xl63IqETCGI>
 Taking advantage of the Bills of Exchange Act
 Richard Vobes
 
@@ -51,12 +50,12 @@ Mike Holt has been challenging the system for many years, especially when it com
 Interview with Mike from earlier this year:    • Challenging the system in Australia  
 
 LINKS: 
-https://cirnow.com.au/how-to-create-a...
-https://lipforms.com/
-https://mikeholtshow.com/
-Common Law: https://commonlaw.earth/ 
-Common Law Education: https://commonlaw.education/
-Essential Information: https://cirnow.com.au/
+<https://cirnow.com.au/how-to-create-a-bill-of-exchange/>
+<https://lipforms.com/>
+<https://mikeholtshow.com/>
+Common Law: <https://commonlaw.earth/> 
+Common Law Education: <https://commonlaw.education/>
+Essential Information: <https://cirnow.com.au/>
 The Mike Holt Show
 <https://www.bitchute.com/channel/iMQmtT7SBDyw>
 Jacquie travels without a driver's licence
