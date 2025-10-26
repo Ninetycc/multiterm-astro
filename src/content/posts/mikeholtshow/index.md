@@ -3,7 +3,7 @@ title: "Taking advantage of the Bills of Exchange Act"
 description: "Mike Holt has been challenging the system for many years, especially when it comes to dealing with utility bills and government demands."
 published: 2025-10-25
 
-tags: ["mikeholtshow"]
+tags: ["mikeholtshow", "SiriusB"]
 draft: false
 ---
 
@@ -43,17 +43,16 @@ Richard Vobes
 Taking advantage of the Bills of Exchange Act
 Richard Vobes
 
-
 94,377 views  16 Oct 2024  2024
 Mike Holt has been challenging the system for many years, especially when it comes to dealing with utility bills and government demands. Having studied the Bills of Exchange Act, it is clear that paying off bills is far easier than we think. This is his second appearance on the show.
 
 Interview with Mike from earlier this year:    • Challenging the system in Australia  
 
-LINKS: 
+LINKS:
 <https://cirnow.com.au/how-to-create-a-bill-of-exchange/>
 <https://lipforms.com/>
 <https://mikeholtshow.com/>
-Common Law: <https://commonlaw.earth/> 
+Common Law: <https://commonlaw.earth/>
 Common Law Education: <https://commonlaw.education/>
 Essential Information: <https://cirnow.com.au/>
 The Mike Holt Show
@@ -73,8 +72,6 @@ The Battler and Glen chat about Mike's journey to awakening - Part 1
 SiriusB
 <https://x.com/SiriusBShaman>
 
-
-
 SiriusB: Taxes Converts a Person into a Tradeable Unit
 <https://operationdisclosureofficial.com/2025/09/21/siriusb-taxes-converts-a-person-into-a-tradeable-unit/>
 <https://x.com/SiriusBShaman/status/1969814425772187881>
@@ -84,15 +81,14 @@ SiriusB: Cabal TaxTheftion
 <https://operationdisclosureofficial.com/2024/08/20/siriusb-cabal-taxtheftion/>
 <https://x.com/SiriusBShaman/status/1825834167323484445>
 
-You are not free. 
+You are not free.
 
 You awaken each morning in a cage made of permission, laboring beneath a calendar crafted by thieves. The so-called seven-day week is nothing but a mechanism of control, a rotation of servitude that keeps the masses obedient to the invisible whip. Two short days of simulated rest for every five of extraction. Every fifty cycles, two pitiful weeks of sanctioned breath, as if existence itself must be earned through exhaustion. This is not civilization. It is a plantation of the mind.
 <https://x.com/SiriusBShaman/status/1981283579247124856>
 
-
 THE PARASITE CLASS
 
-Half of all workers produce nothing. They do not grow food, build homes, fix engines, heal patients, or generate power. 
+Half of all workers produce nothing. They do not grow food, build homes, fix engines, heal patients, or generate power.
 
 They simply control those who do.
 
