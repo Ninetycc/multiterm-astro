@@ -31,6 +31,7 @@ const postsHaveSeries = sortedPosts.some((post) => post.data.series)
 ---
 
 <Layout>
+  
   {
     HomeContent && (
       <HomeBanner avatarImage={homeAvatarImage}>
@@ -38,6 +39,7 @@ const postsHaveSeries = sortedPosts.some((post) => post.data.series)
       </HomeBanner>
     )
   }
+  <AboutL />
   {
     postsHaveSeries && (
       <section>
@@ -68,8 +70,6 @@ const postsHaveSeries = sortedPosts.some((post) => post.data.series)
       </section>
     )
   }
-
-<AboutL />
 </Layout>
 
 <style is:global>
