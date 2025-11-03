@@ -21,16 +21,20 @@ Lymerick
 THE FINAL BATTLE ~ RICCARDO BOSI ~ 17PLUS 17PLUS.WEEBLY.COM
 <https://rumble.com/v6xna7y-the-final-battle-riccardo-bosi-17plus-17plus.weebly.com.html>
 
-RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
-<https://odysee.com/@liabilitymate:5/ricard:00>
+[SPECIAL MESSAGE - THE FINAL PHASE PLAN WITH COL RICARDO BOSI (VIDEO 35.13)
+<https://x.com/CaptKylePatriot/status/1985011013322789085>]
 
-<https://odysee.com/@Liabilitymate:d/bosi2:b>
+[RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
+<https://odysee.com/@liabilitymate:5/ricard:00>]
 
-(AustraliaOne Party - The Dark Empire is Falling 20 October 2025 30:00
-<https://rumble.com/v70l1ri-australiaone-party-the-dark-empire-is-falling-20-october-2025.html?>)
+[RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
+<https://odysee.com/@Liabilitymate:d/bosi2:b>]
 
-(10.20.25 THE DARK EMPIRE IS FALLING w/McKay, Jaco, & Bosi 30:00
-<https://rumble.com/v70ke7y-10.20.25-the-dark-empire-is-falling-wmckay-jaco-and-bosi.html?>)
+[AustraliaOne Party - The Dark Empire is Falling 20 October 2025 30:00
+<https://rumble.com/v70l1ri-australiaone-party-the-dark-empire-is-falling-20-october-2025.html?>]
+
+[10.20.25 THE DARK EMPIRE IS FALLING w/McKay, Jaco, & Bosi 30:00
+<https://rumble.com/v70ke7y-10.20.25-the-dark-empire-is-falling-wmckay-jaco-and-bosi.html?>]
 
 (PatriotStreetfighter
 <https://rumble.com/c/PatriotStreetfighter?>)
