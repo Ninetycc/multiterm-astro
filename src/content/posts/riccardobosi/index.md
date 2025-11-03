@@ -13,19 +13,17 @@ Posted By: Lymerick
 Date: Tuesday, 14-Oct-2025 01:50:00
 www.rumormill.news/260517
 
-This is a superb video, with the wonderful and honorable Ricardo Bosi. In this video, he explains ALL aspects of the Final Plan to defeat the Cabal/Black Hats - from the need for a scare event to what all the different "Hat Colors" mean and the truth about Project Warp Speed. If you want to know the whats and whys of the Final Plan and what it all means, take a listen to Ricardo Bosi to be finally filled in!!!
-Blessed Be!!!
-Lymerick
-<https://www.rumormillnews.com/cgi-bin/forum.cgi?read=260517>
+[This is a superb video, with the wonderful and honorable Ricardo Bosi. In this video, he explains ALL aspects of the Final Plan to defeat the Cabal/Black Hats - from the need for a scare event to what all the different "Hat Colors" mean and the truth about Project Warp Speed. If you want to know the whats and whys of the Final Plan and what it all means, take a listen to Ricardo Bosi to be finally filled in!!! & Blessed Be!!! & Lymerick](https://www.rumormillnews.com/cgi-bin/forum.cgi?read=260517)
 
-THE FINAL BATTLE ~ RICCARDO BOSI ~ 17PLUS 17PLUS.WEEBLY.COM
-<https://rumble.com/v6xna7y-the-final-battle-riccardo-bosi-17plus-17plus.weebly.com.html>
+[THE FINAL BATTLE ~ RICCARDO BOSI ~ 17PLUS 17PLUS.WEEBLY.COM](https://rumble.com/v6xna7y-the-final-battle-riccardo-bosi-17plus-17plus.weebly.com.html)
 
-[SPECIAL MESSAGE - THE FINAL PHASE PLAN WITH COL RICARDO BOSI (VIDEO 35.13)
-<https://x.com/CaptKylePatriot/status/1985011013322789085>]
+[SPECIAL MESSAGE - THE FINAL PHASE PLAN WITH COL RICARDO BOSI CaptKylePatriot](https://x.com/CaptKylePatriot/status/1985011013322789085)
 
-[RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
-<https://odysee.com/@liabilitymate:5/ricard:00>]
+[AustraliaOne Party (A1) - The Final Phase - Plan Riccardo Bosi](https://old.bitchute.com/video/YupAy10vHmLy/)
+
+[Riccardo Bosi & The Final Phase Plan& Q The Trust Plan Russell Stewart](https://www.youtube.com/watch?v=KBdS2O-U6bs)
+
+[RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"](https://odysee.com/@liabilitymate:5/ricard:00)
 
 [RICCARDO BOSI "IT'S A WORLD WAR WE MUST WIN"
 <https://odysee.com/@Liabilitymate:d/bosi2:b>]
