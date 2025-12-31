@@ -170,7 +170,7 @@ const config: SiteConfig = {
     repoId: 'R_kgDOPNnBig',
     category: 'Giscus',
     categoryId: 'DIC_kwDOPNnBis4CteOc',
-    reactionsEnabled: true, // Enable reactions on post itself
+    reactionsEnabled: false, // Enable reactions on post itself
   },
   // These are characters available for the character chat feature.
   // To add your own character, add an image file to the top-level `/public` directory
