@@ -25,7 +25,7 @@ Withdrawal: You avoid noisy places or conversations to prevent stress.
 Isolation & Frustration: You feel lonely, misunderstood, and helpless.
 Mental Health Worsens: Depression, anxiety, and low self-esteem develop or worsen. 
 Key Takeaway:
-Hearing loss isn't just about sound; it's about connection and cognitive function. Addressing hearing loss with treatments like hearing aids can significantly reduce psychological distress and improve overall well-being, making it a critical part of mental health care, https://noteswww.ncbi.nlm.nih.gov/books/NBK207836/, https://sayswww.hearinghelpredcliffe.com.au/hearing/the-impact-of-hearing-loss-on-mental-health/, and is supported https://bywww.anzmh.asn.au/blog/hearing-and-mental-health-establishing-the-connection. 
+Hearing loss isn't just about sound; it's about connection and cognitive function. Addressing hearing loss with treatments like hearing aids can significantly reduce psychological distress and improve overall well-being, making it a critical part of mental health care, notes https://www.ncbi.nlm.nih.gov/books/NBK207836/, says https://www.hearinghelpredcliffe.com.au/hearing/the-impact-of-hearing-loss-on-mental-health/, and is supported by https://www.anzmh.asn.au/blog/hearing-and-mental-health-establishing-the-connection. 
 
 https://www.earscience.org.au/lions-hearing-clinic/impact-of-hearing-loss/
 
