@@ -3,7 +3,7 @@ title: "THE FINAL BATTLE ~ RICCARDO BOSI ~ 17PLUS 17PLUS.WEEBLY.COM"
 description: "This is a superb video, with the wonderful and honorable Ricardo Bosi."
 published: 2025-10-22
 
-tags: ["riccardo-bosi"]
+tags: ["riccardo-bosi", "THE FINAL PHASE"]
 draft: false
 ---
 
