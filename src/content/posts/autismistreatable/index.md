@@ -65,6 +65,13 @@ https://odysee.com/@Kerri-Rivera-Autism-Chlorine-Dioxide:7/Kerri-Rivera-and-Dr-S
 Kerri Rivera: Autism, Chlorine Dioxide, Parasites, Vaccinations, 2013(How many drops?)
 https://odysee.com/@Kerri-Rivera-Autism-Chlorine-Dioxide:7/Kerri-Rivera-Autism-Chlorine-Dioxide-Parasites-Vaccinations:d
 
+   <br> <a class="underline text-white bg-pink-700 font-bold text-justify hover:bg-pink-900"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://odysee.com/@Kerri-Rivera-Autism-Chlorine-Dioxide:7/Kerri-Rivera-Autism-Chlorine-Dioxide-Parasites-Vaccinations:d"
+        >Kerri Rivera: Autism, Chlorine Dioxide, Parasites, Vaccinations, 2013(How many drops?)</a>
+        <br> 
+
 Kerri Rivera interviewed about chlorine dioxide vs. autism
 Health Ranger Report
 Health Ranger Report
