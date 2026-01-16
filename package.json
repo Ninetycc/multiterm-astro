@@ -14,8 +14,8 @@
   "dependencies": {
     "@astrojs/markdown-remark": "^6.3.10",
     "@astrojs/mdx": "^4.3.13",
-    "@astrojs/rss": "^4.0.14",
-    "@astrojs/sitemap": "^3.6.1",
+    "@astrojs/rss": "^4.0.15",
+    "@astrojs/sitemap": "^3.7.0",
     "@astrojs/ts-plugin": "^1.10.6",
     "@expo-google-fonts/jetbrains-mono": "^0.4.0",
     "@expressive-code/plugin-line-numbers": "^0.41.3",
@@ -26,7 +26,7 @@
     "@types/hast": "^3.0.4",
     "@types/react": "^19.1.12",
     "@types/react-dom": "^19.1.9",
-    "astro": "^5.16.9",
+    "astro": "^5.16.10",
     "astro-expressive-code": "^0.41.3",
     "color": "^5.0.0",
     "date-fns": "^4.1.0",
@@ -59,6 +59,6 @@
     "prettier": "3.6.2",
     "prettier-plugin-astro": "0.14.1",
     "sass-embedded": "^1.92.1",
-    "wrangler": "^4.59.1"
+    "wrangler": "^4.59.2"
   }
 }
