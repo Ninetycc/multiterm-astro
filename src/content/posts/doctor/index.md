@@ -14,9 +14,9 @@ tags: ['doctor','DrSuneelDhand']
 
 [Are THEY NOT TELLING TRUTH About The FLU SHOT? Dr. Suneel Dhand](https://www.youtube.com/watch?v=CLJ3Z_3EquU)
 
+[Why Are CARDIOLOGISTS So DAMN IGNORANT? ](https://www.youtube.com/watch?v=lM2dkBhwJLE&t=5s)
 
-[Your doctor won't tell you the truth about salt](https://x.com/NutritionTipzzz/status/1991349093114036526)
-
+[Why a 120/80 “Ideal” BLOOD PRESSURE is NONSENSE](https://www.youtube.com/watch?v=6zhTVYYpOPc)
 
 
 The future of humanity.
