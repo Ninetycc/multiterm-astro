@@ -238,6 +238,12 @@ https://www.youtube.com/watch?v=Za_R6h89iS8
 Australia’s Monopoly Is Hidden in Plain Sight
 
 ColdFusion
+Australia’s Monopoly Is Hidden in Plain Sight
+
+Australia is one of the most monopolistic countries in the developed world. 
+From banking, to air travel and groceries. 
+It's all controlled by a few giant corporations. But how bad is it and how did it get this way? 
+In this episode we take a look.
 
 
 Australia’s Monopoly Problem: Why We’re All Paying More
@@ -249,5 +255,22 @@ Australia’s Monopoly Problem: Why We’re All Paying More
 
 Thought Digest Media
 
-Joe Tippens Protocol
+Australia's Rental Market IS COLLAPSING! Top 5 Cities Where Rent Is Out of Control
+
+Australian Hub
+https://www.youtube.com/watch?v=l79XosCjyAI
+https://www.youtube.com/watch?v=l79XosCjyAI
+Australia's Rental Market IS COLLAPSING! Top 5 Cities Where Rent Is Out of Control
+
+Australian Hub
+
+
+Victoria Is Falling Apart — Premier PANICS as Tens of Thousands Leave
+
+Australian Hub
+https://www.youtube.com/watch?v=ancDk2hDKX4
+https://www.youtube.com/watch?v=ancDk2hDKX4
+Victoria Is Falling Apart — Premier PANICS as Tens of Thousands Leave
+
+Australian Hub
 
