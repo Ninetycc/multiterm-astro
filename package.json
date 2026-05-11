@@ -12,11 +12,11 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@astrojs/markdown-remark": "^6.3.10",
-    "@astrojs/mdx": "^4.3.13",
-    "@astrojs/rss": "^4.0.15",
-    "@astrojs/sitemap": "^3.7.0",
-    "@astrojs/ts-plugin": "^1.10.6",
+    "@astrojs/markdown-remark": "^7.1.1",
+    "@astrojs/mdx": "^5.0.4",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.2",
+    "@astrojs/ts-plugin": "^1.10.7",
     "@expo-google-fonts/jetbrains-mono": "^0.4.1",
     "@expressive-code/plugin-line-numbers": "^0.41.6",
     "@fontsource-variable/jetbrains-mono": "^5.2.8",
@@ -26,7 +26,7 @@
     "@types/hast": "^3.0.4",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
-    "astro": "^5.17.3",
+    "astro": "^6.3.1",
     "astro-expressive-code": "^0.41.6",
     "color": "^5.0.3",
     "date-fns": "^4.1.0",
@@ -59,6 +59,6 @@
     "prettier": "3.8.1",
     "prettier-plugin-astro": "0.14.1",
     "sass-embedded": "^1.97.3",
-    "wrangler": "^4.66.0"
+    "wrangler": "^4.90.0"
   }
 }
