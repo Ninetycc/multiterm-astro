@@ -195,10 +195,10 @@
   resolved "https://registry.npmjs.org/@cloudflare/unenv-preset/-/unenv-preset-2.16.1.tgz"
   integrity sha512-ECxObrMfyTl5bhQf/lZCXwo5G6xX9IAUo+nDMKK4SZ8m4Jvvxp52vilxyySSWh2YTZz8+HQ07qGH/2rEom1vDw==
 
-"@cloudflare/workerd-linux-64@1.20260603.1":
-  version "1.20260603.1"
-  resolved "https://registry.npmjs.org/@cloudflare/workerd-linux-64/-/workerd-linux-64-1.20260603.1.tgz"
-  integrity sha512-ht9l6/8Tk7Rp6kA4S9oFZ4X8u0VjnnFdmU/6B3fnABYKREYTKh2RdOqXqXxcp5eNJseireKnWik/hQOPK1CutQ==
+"@cloudflare/workerd-linux-64@1.20260609.1":
+  version "1.20260609.1"
+  resolved "https://registry.npmjs.org/@cloudflare/workerd-linux-64/-/workerd-linux-64-1.20260609.1.tgz"
+  integrity sha512-T2Ebir2OPHAvvZ0HUh5mi1lN8q30sVi4lf7LIpc28AHoWtoOmJ0jA5AJK4IYJm1MKEbBldq+QsckaHOCQFmRpQ==
 
 "@cspotcode/source-map-support@0.8.1":
   version "0.8.1"
@@ -681,9 +681,9 @@
   integrity sha512-P1Cz1dWaFfR4IR+U13mqqiGsLFf1KbayybWwdd2vfctdV6hDpUkgCY0nKOLLTMSoRd/jJNjtbqzf13K8DCCXQw==
 
 "@speed-highlight/core@^1.2.7":
-  version "1.2.15"
-  resolved "https://registry.npmjs.org/@speed-highlight/core/-/core-1.2.15.tgz"
-  integrity sha512-BMq1K3DsElxDWawkX6eLg9+CKJrTVGCBAWVuHXVUV2u0s2711qiChLSId6ikYPfxhdYocLNt3wWwSvDiTvFabw==
+  version "1.2.16"
+  resolved "https://registry.npmjs.org/@speed-highlight/core/-/core-1.2.16.tgz"
+  integrity sha512-yNm/fYEcnpRjYduLMaddTK9XKYil6xB88+qFg79ZdZhHu1PadfoQmFW7pVTx7FZqMBNcUuThiAhxhENgtAO2/w==
 
 "@tailwindcss/node@4.2.0":
   version "4.2.0"
@@ -2825,15 +2825,15 @@ micromatch@^4.0.5:
     braces "^3.0.3"
     picomatch "^2.3.1"
 
-miniflare@4.20260603.0:
-  version "4.20260603.0"
-  resolved "https://registry.npmjs.org/miniflare/-/miniflare-4.20260603.0.tgz"
-  integrity sha512-+kMQYB82gC8MPOuojHur3icQsUeZUEJ+Sphuo5rVC3Ri9txBLAW/mH33b9OVrpmkogQeaaqPS4tPtugJZhk5Kw==
+miniflare@4.20260609.0:
+  version "4.20260609.0"
+  resolved "https://registry.npmjs.org/miniflare/-/miniflare-4.20260609.0.tgz"
+  integrity sha512-4ZfNh9ACDa/mKKQvTSO2vigyQS2MB7dEU02KRPle4FqL7S6nek+2Fq6WGzazZbt1OORYgb4OGVLnOCx+My2NNA==
   dependencies:
     "@cspotcode/source-map-support" "0.8.1"
     sharp "0.34.5"
     undici "7.24.8"
-    workerd "1.20260603.1"
+    workerd "1.20260609.1"
     ws "8.20.1"
     youch "4.1.0-beta.10"
 
@@ -4041,30 +4041,30 @@ which-pm-runs@^1.1.0:
   resolved "https://registry.npmjs.org/which-pm-runs/-/which-pm-runs-1.1.0.tgz"
   integrity sha512-n1brCuqClxfFfq/Rb0ICg9giSZqCS+pLtccdag6C2HyufBrh3fBOiy9nb6ggRMvWOVH5GrdJskj5iGTZNxd7SA==
 
-"workerd@>1.20260305.0 <2.0.0-0", workerd@1.20260603.1:
-  version "1.20260603.1"
-  resolved "https://registry.npmjs.org/workerd/-/workerd-1.20260603.1.tgz"
-  integrity sha512-NPcbhI1++CS+fnELyXtsIR52en+5kwr/OrKeiQeYXGy10HxmPdsQBv9N+DU7hJIOOmBHhOGAAsoGDjyiQ2YCaA==
+"workerd@>1.20260305.0 <2.0.0-0", workerd@1.20260609.1:
+  version "1.20260609.1"
+  resolved "https://registry.npmjs.org/workerd/-/workerd-1.20260609.1.tgz"
+  integrity sha512-KF/Y/8f4VoXCk87NuU6RqmO0X5fdzcrxU3XzAgoPUpnH9t1ZyzRgX1O/9sJvjItxroCBTEBzKssda02Dz9i6BA==
   optionalDependencies:
-    "@cloudflare/workerd-darwin-64" "1.20260603.1"
-    "@cloudflare/workerd-darwin-arm64" "1.20260603.1"
-    "@cloudflare/workerd-linux-64" "1.20260603.1"
-    "@cloudflare/workerd-linux-arm64" "1.20260603.1"
-    "@cloudflare/workerd-windows-64" "1.20260603.1"
+    "@cloudflare/workerd-darwin-64" "1.20260609.1"
+    "@cloudflare/workerd-darwin-arm64" "1.20260609.1"
+    "@cloudflare/workerd-linux-64" "1.20260609.1"
+    "@cloudflare/workerd-linux-arm64" "1.20260609.1"
+    "@cloudflare/workerd-windows-64" "1.20260609.1"
 
-wrangler@^4.98.0:
-  version "4.98.0"
-  resolved "https://registry.npmjs.org/wrangler/-/wrangler-4.98.0.tgz"
-  integrity sha512-cXfFUuF4rMIvE0hiMnXjEAB27ERryaCgquBJdUoPIjFzYYE1rbRdMUkEdQ18qDPUtsPvhJdqxLntixT9OfSzQw==
+wrangler@^4.99.0:
+  version "4.99.0"
+  resolved "https://registry.npmjs.org/wrangler/-/wrangler-4.99.0.tgz"
+  integrity sha512-i7GA2mZETTyq3ljWdEzM908FjLaMWZ1AaAHKaOJ8pFA/tonf2VqIWDyBGzKleIVBbNQxOTIY2wnbv0iaK3rC6g==
   dependencies:
     "@cloudflare/kv-asset-handler" "0.5.0"
     "@cloudflare/unenv-preset" "2.16.1"
     blake3-wasm "2.1.5"
     esbuild "0.27.3"
-    miniflare "4.20260603.0"
+    miniflare "4.20260609.0"
     path-to-regexp "6.3.0"
     unenv "2.0.0-rc.24"
-    workerd "1.20260603.1"
+    workerd "1.20260609.1"
   optionalDependencies:
     fsevents "2.3.3"
 
