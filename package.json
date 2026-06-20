@@ -59,9 +59,9 @@
     "prettier": "3.8.1",
     "prettier-plugin-astro": "0.14.1",
     "sass-embedded": "^1.97.3",
-    "wrangler": "^4.100.0"
+    "wrangler": "^4.103.0"
   },
   "overrides": {
-  "vite": "^7.3.5"
-}
+    "vite": "^7.3.5"
+  }
 }
