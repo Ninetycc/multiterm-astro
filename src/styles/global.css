@@ -113,6 +113,24 @@ article img {
   }
 }
 
+/* Style for the floating header */
+.floating-header {
+  position: fixed;     /* Locks the element in place relative to the viewport */
+  top: 0;              /* Aligns it to the very top */
+  left: 0;             /* Aligns it to the left edge */
+  width: 100%;         /* Spans the full width of the screen */
+  height: 60px;        /* Explicit height to calculate content spacing */
+  z-index: 1000;       /* Keeps it stacked above background content */
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Style for the page content */
+.content {
+  padding-top: 70px;   /* Must be slightly larger than the header's height */
+}
+
+
 .prose {
   @apply text-base/7;
 
